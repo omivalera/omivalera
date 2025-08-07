@@ -83,7 +83,7 @@ Construyo software robusto y soluciones inteligentes que funcionan hoy y se adap
 
 ### 🌐 Contáctame
 
-- [LinkedIn]([https://www.linkedin.com/in/richard-omi-espinoza-valera-960b4b7a/])    
+- [LinkedIn](https://www.linkedin.com/in/richard-omi-espinoza-valera-960b4b7a/)    
 - [Email](mailto:omivalera@gmail.com)
 
 ---
@@ -147,7 +147,7 @@ I build robust software and smart solutions that work today and adapt to the fut
 
 ### 🌐 Contact
 
-- [LinkedIn]([https://www.linkedin.com/in/richard-omi-espinoza-valera-960b4b7a/])  
+- [LinkedIn](https://www.linkedin.com/in/richard-omi-espinoza-valera-960b4b7a/)  
 - [Email](mailto:omivalera@gmail.com)
 
 ---
