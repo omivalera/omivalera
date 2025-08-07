@@ -58,16 +58,6 @@ Construyo software robusto y soluciones inteligentes que funcionan hoy y se adap
   </a>
 </p>
 
----
-
-### 📊 Stats y Gráficas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omivalera&layout=compact&theme=github_dark" width="42%"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=omivalera&show_icons=true&theme=github_dark&hide_border=true" width="54%"/>
-</p>
-
----
 
 ### 🛠️ Stack principal
 
