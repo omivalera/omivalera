@@ -83,7 +83,7 @@ Construyo software robusto y soluciones inteligentes que funcionan hoy y se adap
 
 ### 🌐 Contáctame
 
-- [LinkedIn]([https://www.linkedin.com/in/tu-linkedin](https://www.linkedin.com/in/richard-omi-espinoza-valera-960b4b7a/))    
+- [LinkedIn]([https://www.linkedin.com/in/richard-omi-espinoza-valera-960b4b7a/])    
 - [Email](mailto:omivalera@gmail.com)
 
 ---
@@ -132,16 +132,6 @@ I build robust software and smart solutions that work today and adapt to the fut
   </a>
 </p>
 
----
-
-### 📊 Stats & Graphs
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omivalera&layout=compact&theme=github_dark" width="42%"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=omivalera&show_icons=true&theme=github_dark&hide_border=true" width="54%"/>
-</p>
-
----
 
 ### 🛠️ Main Stack
 
@@ -157,7 +147,7 @@ I build robust software and smart solutions that work today and adapt to the fut
 
 ### 🌐 Contact
 
-- [LinkedIn]([https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/richard-omi-espinoza-valera-960b4b7a/))  
+- [LinkedIn]([https://www.linkedin.com/in/richard-omi-espinoza-valera-960b4b7a/])  
 - [Email](mailto:omivalera@gmail.com)
 
 ---
