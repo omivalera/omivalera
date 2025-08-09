@@ -1,4 +1,4 @@
-<!-- Badges superiores para impacto visual -->
+<!-- Badges  -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=omivalera&label=Visitas&color=0e75b6&style=flat" alt="visitas"/>
   <img src="https://img.shields.io/github/followers/omivalera?style=social" alt="followers"/>
@@ -10,7 +10,7 @@
   <img src="https://skillicons.dev/icons?i=python,fastapi,react,js,ts,linux,docker,php,postgres,openai,git,html,css" />
 </p>
 
-<!-- Banner animado -->
+<!-- Banner  -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=00F7FF&center=true&width=500&lines=Om%C3%AD+-+Desarrollador+Fullstack;Python%2C+FastAPI%2C+React%2C+IA%2C+Automatizaci%C3%B3n;Innovaci%C3%B3n+y+Negocios+Digitales" alt="Typing SVG" />
 </p>
