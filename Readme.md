@@ -7,12 +7,12 @@
 
 <!-- Skill Icons -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,react,js,ts,linux,docker,php,postgres,openai,git,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,react,js,ts,linux,docker,php,postgres,nodejs,git,html,css" />
 </p>
 
 <!-- Banner  -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=00F7FF&center=true&width=500&lines=Om%C3%AD+-+Desarrollador+Fullstack;Python%2C+FastAPI%2C+React%2C+IA%2C+Automatizaci%C3%B3n;Innovaci%C3%B3n+y+Negocios+Digitales" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=00F7FF&center=true&width=500&lines=Richard+Omi+-+Desarrollador+Fullstack;Python%2C+FastAPI%2C+React%2C+IA%2C+Automatizaci%C3%B3n;Innovaci%C3%B3n+y+Negocios+Digitales" alt="Typing SVG" />
 </p>
 
 <h1 align="center">🚀 Desarrollador Fullstack e Innovador en IA</h1>
