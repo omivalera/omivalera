@@ -104,22 +104,6 @@ I build robust software and smart solutions that work today and adapt to the fut
 
 ---
 
-### 🚩 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/omivalera/menta">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=omivalera&repo=menta&theme=github_dark" />
-  </a>
-  <a href="https://github.com/omivalera/dark-entities">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=omivalera&repo=dark-entities&theme=github_dark" />
-  </a>
-  <a href="https://github.com/omivalera/OptimeScript">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=omivalera&repo=OptimeScript&theme=github_dark" />
-  </a>
-  <a href="https://github.com/omivalera/antilen">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=omivalera&repo=antilen&theme=github_dark" />
-  </a>
-</p>
 
 
 ### 🛠️ Main Stack
